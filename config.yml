@@ -108,182 +108,182 @@ glyphs:
 
   - css: github
     code: 0xf300
-    uid: d94334f23acba022bfd68e49d76b31bb
+    uid: a9442718c0beb8837757e5c725d2d4de
     search: [github, social, logo]
 
   - css: github-circled
     code: 0xf301
-    uid: 91daf8fde1042a363514ca7e42d89570
+    uid: 529f41cdc2b32e5e2c138f5a11f530b1
     search: [github, social, logo]
 
   - css: flickr
     code: 0xf303
-    uid: 14cfd18cc1dd5fb99ba04311b888bc23
+    uid: d625b4f2d9e8bc44f44662e6c7502b2c
     search: [flickr, social, logo]
 
   - css: flickr-circled
     code: 0xf304
-    uid: 5bbd46b2a0b972533f4d3ef243645e1d
+    uid: 3f342c647fb0e1ae9089d2126124c2b3
     search: [flickr, social, logo]
 
   - css: vimeo
     code: 0xf306
-    uid: 538531af0e023b15882c505ee2297cbe
+    uid: a0651563ec3a1d9f9c9eb768c1eeae6d
     search: [vimeo, social, logo]
 
   - css: vimeo-circled
     code: 0xf307
-    uid: 6569bd1801e232180221ba0f6a4b8b27
+    uid: 77b4dddc49ef7035550c33f9b95144dc
     search: [vimeo, social, logo]
 
   - css: twitter
     code: 0xf309
-    uid: d090355c31f497b61d676416c1fd39fb
+    uid: ed7f286a79233f34f6d9a9a242bb94f5
     search: [twitter, social, logo]
 
   - css: twitter-circled
     code: 0xf30a
-    uid: 0419da6446cb4f31093e2022793571ca
+    uid: a9e8e9c546c2487eb9c033c80de3832d
     search: [twitter, social, logo]
 
   - css: facebook
     code: 0xf30c
-    uid: bc50457410acf467b8b5721240768742
+    uid: f220bcc20903090ffe76c6e541d5da6e
     search: [facebook, social, logo]
 
   - css: facebook-circled
     code: 0xf30d
-    uid: ce1d525f3f31024c6a6b38f5e9a88953
+    uid: 98745ba8e7a5d0f3a11b82ba517bbc95
     search: [facebook, social, logo]
 
   - css: facebook-squared
     code: 0xf30e
-    uid: 47bd87a650e95b97f947d275ed968efe
+    uid: 1e57ef82ed520373c52bc90976dbf840
     search: [facebook, social, logo]
 
   - css: gplus
     code: 0xf30f
-    uid: b945f4ac2439565661e8e4878e35d379
+    uid: 473902f352eefc5e827c58d03515e25c
     search: [google, plus, social, logo]
 
   - css: gplus-circled
     code: 0xf310
-    uid: 818a6c2a76c89800632c0335e9cdafee
+    uid: 26c3302c8405d6306897db381724b63c
     search: [google, plus, social, logo]
 
   - css: pinterest
     code: 0xf312
-    uid: 689febe699d74bc8862965555503e445
+    uid: 08c7ca290c5c12708cf04f85546be3e1
     search: [pinterest, social, logo]
 
   - css: pinterest-circled
     code: 0xf313
-    uid: 2e9c0fdd4d59598cb122801ab80222e7
+    uid: 743cb08680e3d2d3ca13c34de8f978ab
     search: [pinterest, social, logo]
 
   - css: tumblr
     code: 0xf315
-    uid: d491462e64eb5b8c4f064108a2ff1780
+    uid: 43f669b9e1d20f0a6c0fddc8205d3cb0
     search: [tumblr, social, logo]
 
   - css: tumblr-circled
     code: 0xf316
-    uid: 72a6237752f5cd00a107d097adac9ce3
+    uid: 21283447f88d83e313125813a0dcd80c
     search: [tumblr, social, logo]
 
   - css: linkedin
     code: 0xf318
-    uid: 7132e1233bc16cd1b6efe7e29d3613a5
+    uid: be10e7930c8db4400eef837f5d50d021
     search: [linkedin, social, logo]
 
   - css: linkedin-circled
     code: 0xf319
-    uid: 21adad41ffebf469b2370d26bcb8a3c4
+    uid: d256848c649959a6008bf1d5dd8ae4b7
     search: [linkedin, social, logo]
 
   - css: dribbble
     code: 0xf31b
-    uid: e8d13cd05bd63219329b2b61835d776c
+    uid: 6cf7d65d00ff6e55ddd2697cc0d198fb
     search: [dribbble, social, logo]
 
   - css: dribbble-circled
     code: 0xf31c
-    uid: ec3e0b50a56867ac26a6de47953b9831
+    uid: 7666dbd40bca3b08f7cd14b7bcc96693
     search: [dribbble, social, logo]
 
   - css: stumbleupon
     code: 0xf31e
-    uid: ef5e2b339a93fff038cc6a28f8c91edd
+    uid: 25898a85755e74dbda853766d0745225
     search: [stumbleupon, social, logo]
 
   - css: stumbleupon-circled
     code: 0xf31f
-    uid: e3606432570e59d4d852727bad063cd1
+    uid: d951d7602db919844f01c55a499f16b7
     search: [stumbleupon, social, logo]
 
   - css: lastfm
     code: 0xf321
-    uid: ae49d5a5d0c2f7253f375bde5f0da2d2
+    uid: 6f75e5aef57cf9c2e4d466ee87f79d4f
     search: [lastfm, social, logo]
 
   - css: lastfm-circled
     code: 0xf322
-    uid: 9eedcbf6e07d6ba820e3e22f5ab6f734
+    uid: 0f6bf7979de69f6dc98873f805f9f054
     search: [lastfm, social, logo]
 
   - css: rdio
     code: 0xf324
-    uid: 406d96226bd9d021b7d976efa1c4a061
+    uid: 43000bbfc96fcc1da88f0613eb41049f
     search: [rdio, social, logo]
 
   - css: rdio-circled
     code: 0xf325
-    uid: 4d8e1f1173bab9aac8991e9eee2fa326
+    uid: 74c88996168e411280e1c7dc63b18ad7
     search: [rdio, social, logo]
 
   - css: spotify
     code: 0xf327
-    uid: 882d407598d4e60074f5c08b3372811e
+    uid: 3a6f131d429577ae9daa07c0546e0739
     search: [spotify, social, logo]
 
   - css: spotify-circled
     code: 0xf328
-    uid: 067edf3e1f6458e782d0254e63eb5eb6
+    uid: 43b559568fc9472536ac6952c05dbdd0
     search: [spotify, social, logo]
 
   - css: qq
     code: 0xf32a
-    uid: 935e2e437efbb3a69ed9a83e2d2f637e
+    uid: bc60486a3c0ecf674015a81b3b799e1b
     search: [qq, social, logo]
 
   - css: instagrem
     code: 0xf32d
-    uid: 0fbfb1cd7a847c88ea4c141d0e1bbdb5
+    uid: 11b214b5aa8b6b45e45820f152dc135e
     search: [instagrem, social, logo]
 
   - css: dropbox
     code: 0xf330
-    uid: b22fdf6cbaa9c54fbb0bc9abb0ed4098
+    uid: d9f59813c92c133a53c8820511099a92
     search: [dropbox, social, logo]
 
   - css: evernote
     code: 0xf333
-    uid: ce291d00162e998dbf5cb81bc5edff75
+    uid: d865f4cb1cfd88e4395cb4425e0d1b66
     search: [evernote, social, logo]
 
   - css: flattr
     code: 0xf336
-    uid: 4274fc9f6190d330fcdf61e7ad564370
+    uid: 592608470d3f72b9f483d7897f8fd1ab
     search: [flattr, social, logo]
 
   - css: skype
     code: 0xf339
-    uid: 28ccaf022b8363aeaa5b86f66e1f5173
+    uid: f4c449b549360af43d78341aa35239be
     search: [skype, social, logo]
 
   - css: skype-circled
     code: 0xf33a
-    uid: 8354734770d837204e6a004885240d2e
+    uid: afc7ad73431e713a20398f57fb190205
     search: [skype, social, logo]
 
   - css: renren
@@ -293,54 +293,54 @@ glyphs:
 
   - css: sina-weibo
     code: 0xf33f
-    uid: d1945696d6bbbf84e388df9961f26a37
+    uid: ad93d41636e8d79e2c60e1c1364a0231
     search: ['sina-weibo', social, logo]
 
   - css: paypal
     code: 0xf342
-    uid: 8d584f31a5d54de313f1f3da28708ec0
+    uid: 13e8423e37c505ccb342ffd949e7f2d6
     search: [paypal, social, logo]
 
   - css: picasa
     code: 0xf345
-    uid: 07269ba9c8905d091e1a01beab1f0958
+    uid: dfffa210196e7cd0651ab0bc216e38e5
     search: [picasa, social, logo]
 
   - css: soundcloud
     code: 0xf348
-    uid: b86600decaba538aca184421752cd640
+    uid: 953408d825a12930de4d70721d215ac5
     search: [soundcloud, social, logo]
 
   - css: mixi
     code: 0xf34b
-    uid: c510878e39f27f3fb4e6171148829962
+    uid: d59ea47547a40691a0232e565c112326
     search: [mixi, social, logo]
 
   - css: behance
     code: 0xf34e
-    uid: 84f3880057574e968053d6d6c8a7b216
+    uid: 3f1d45d674954bb8ead5fe1e496e2be8
     search: [behance, social, logo]
 
   - css: google-circles
     code: 0xf351
-    uid: 5a24a9d2bffe3b66cea31ed2f57fb65a
+    uid: d051982c5440efc0becf9c2d04ee6480
     search: [google, circles, social, logo]
 
   - css: vkontakte
     code: 0xf354
-    uid: c9a7eca58474311926922ff8c2c1d256
+    uid: 827d3f32f51dd7acf314e7eaf712d197
     search: [vkontakte, social, logo]
 
   - css: smashing
     code: 0xf357
-    uid: 2e97984c1130787e123117d4cacc07fa
+    uid: 047375dab5d3d32e5d886aceb36cba65
     search: [smashing, social, logo]
 
 
   -
     css: firefox
     code: 0xe840
-    uid: 62c089cb34e74b3a1200bc7f5314eb4e
+    uid: f2d3e2a8edc613bddac152434c3c7719
     meta:
       author: Angela Berbentseva
       email: isux@qq.com
@@ -348,7 +348,7 @@ glyphs:
   -
     css: chrome
     code: 0xe841
-    uid: 9c2b737b16ae2c8d66b7bfd29ba5ecd8
+    uid: 0d354e9826bd616a5a423a3ec2eaf5ee
     meta:
       author: Angela Berbentseva
       email: isux@qq.com
@@ -356,7 +356,7 @@ glyphs:
   -
     css: opera
     code: 0xe842
-    uid: 45861dd1e5ce4fde338bcccf01eeb808
+    uid: 085105a45d313ba13547e347ed56c9e1
     meta:
       author: Angela Berbentseva
       email: isux@qq.com
@@ -364,7 +364,7 @@ glyphs:
   -
     css: ie
     code: 0xe843
-    uid: 2a46f1d1c9bd036e17a74e46613c1636
+    uid: 2d8ed1019c14dfc2c96ee5ae22c40423
     meta:
       author: Angela Berbentseva
       email: isux@qq.com
