@@ -10,7 +10,7 @@
 #  homepage: http://...
 #  email: ...
 #  twitter: http://twitter.com/...
-#  dribbble: http://dribbble.com/...
+#  dribble: http://dribbble.com/...
 #  license: SIL
 #  license_url: http://scripts.sil.org/OFL
 #
@@ -80,12 +80,18 @@ meta:
   email: mienflying@gmail.com
   twitter: http://twitter.com/mienflying
   dribbble: http://dribbble.com/mienflying
-  github: https://github.com/mienflying/social.logo
+  github: https://github.com/qianduan/social.logo
   license: SIL
-  license_url: http://scripts.sil.org/OFL
+  #license_url: http://creativecommons.org/licenses/by/3.0/
 
-  css_prefix: "icon-"
+  css_prefix_text: "icon-"
   columns: 4
+
+#transform:
+#  baseline: 0.5
+#  rescale: 1.053
+#  # offset: -0.05
+
 
 font:
   version: "1.0"
@@ -101,7 +107,7 @@ font:
 
   ascent: 850
   descent: 150
-  weight: Medium
+  weight: "Regular"
 
 
 glyphs:
